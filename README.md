@@ -1,0 +1,2 @@
+# AQBMIV_XmlGyak
+2021AdatkezelesXmlGyak
