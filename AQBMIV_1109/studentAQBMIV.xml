@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<class xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="studentFB8YPQ.xsd">
+    <student id = "0">
+        <keresztnev>Gergo</keresztnev>
+        <vezeteknev>Valaska</vezeteknev>
+        <becenev>Geri</becenev>
+        <kor>21</kor>
+    </student>
+    <student id = "1">
+        <keresztnev>Márton</keresztnev>
+        <vezeteknev>Szalka</vezeteknev>
+        <becenev>Szasza</becenev>
+        <kor>22</kor>
+    </student>
+    <student id = "2">
+        <keresztnev>Márk</keresztnev>
+        <vezeteknev>Sass</vezeteknev>
+        <becenev>Sóska</becenev>
+        <kor>34</kor>
+    </student>
+</class>
