@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!ELEMENT konyvtar (konyv)+>
+<!ELEMENT konyv (cim,kiadasiEv,kiado,szerzo)>
+<!ELEMENT cim (#PCDATA)>
+<!ELEMENT kiadasiEv (#PCDATA)>
+<!ELEMENT kiado (#PCDATA)>
+<!ELEMENT szerzo (#PCDATA)*>
+
