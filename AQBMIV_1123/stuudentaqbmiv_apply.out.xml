@@ -1,0 +1,57 @@
+
+<html>
+    <body>
+        <h2>Valaska Gergő apple-template</h2>
+         
+      ID: <span style="font-size = 22px;">0</span>
+        <br>
+         
+      Keresztnev: <span style="color:darkred;">Gergo</span>
+        <br>
+         
+      Vezeteknev: <span style="color:green;">Valaska</span>
+        <br>
+        <span style="color:black;">Geri 
+      </span> 
+      kor: <span style="color:blue;">21</span>
+        <br>
+         
+      Fizetes: <span style="color:red;">520000</span>
+        <br>
+        <br>
+         
+      ID: <span style="font-size = 22px;">1</span>
+        <br>
+         
+      Keresztnev: <span style="color:darkred;">József</span>
+        <br>
+         
+      Vezeteknev: <span style="color:green;">Viszokai</span>
+        <br>
+        <span style="color:black;">Jozsi
+      </span> 
+      kor: <span style="color:blue;">32</span>
+        <br>
+         
+      Fizetes: <span style="color:red;">1200000</span>
+        <br>
+        <br>
+         
+      ID: <span style="font-size = 22px;">2</span>
+        <br>
+         
+      Keresztnev: <span style="color:darkred;">Mark</span>
+        </br>
+         
+      Vezeteknev: <span style="color:green;">Sass</span>
+        <br>
+        <span style="color:black;">Sasi 
+      </span> 
+      kor: <span style="color:blue;">31</span>
+        <br>
+         
+      Fizetes: <span style="color:red;">250000</span>
+        <br>
+        <br>
+    </body>
+</html>
