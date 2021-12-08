@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<adatbazis xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XMLSchemaAQBMIV.xsd">
+    		
+  
+  <ugyfel id="Ugy0">
+        				
+    
+    <nev>Tóth Ferenc</nev>
+        				
+    
+    <kor>17</kor>
+        				
+    
+    <nem>Ferfi</nem>
+        		
+  
+  </ugyfel>
+    		
+		
+  
+  <ugyfel id="Ugy1">
+        				
+    
+    <nev>Kiss Greta</nev>
+        				
+    
+    <kor>29</kor>
+        				
+    
+    <nem>Nő</nem>
+        				
+		
+  
+  </ugyfel>
+    		
+		
+  
+  <ugyfel id="Ugy2">
+        				
+    
+    <nev>Hasas Csaba</nev>
+        				
+    
+    <kor>23</kor>
+        				
+    
+    <nem>Ferfi</nem>
+        				
+		
+  
+  </ugyfel>
+    		
+		
+  
+  <uzlet id="Uzi0">
+        				
+    
+    <ferohely>145</ferohely>
+        				
+    
+    <nyitvatartas>8-16</nyitvatartas>
+        				
+    
+    <cim>
+            				 	  
+      
+      <varos>Miskolc</varos>
+            	
+				 	  
+      
+      <utca>Hősök tere</utca>
+            	
+				
+    
+    </cim>
+        	
+		
+  
+  </uzlet>
+    		
+  
+  <fodrasz id="F0">
+        				
+    
+    <nev>Gál József</nev>
+        				
+    
+    <kor>22</kor>
+        				
+    
+    <kereset>250000</kereset>
+        				
+		
+  
+  </fodrasz>
+    		
+  
+  <fodrasz id="F1">
+        				
+    
+    <nev>Szabó Dániel</nev>
+        				
+    
+    <kor>24</kor>
+        				
+    
+    <kereset>450000</kereset>
+        				
+		
+  
+  </fodrasz>
+    		
+  
+  <fodrasz id="F2">
+        				
+    
+    <nev>Cziko Tivadar</nev>
+        				
+    
+    <kor>33</kor>
+        				
+    
+    <kereset>198000</kereset>
+        				
+		
+  
+  </fodrasz>
+    		
+  
+  <tulajdonos id="T0">
+        					
+					
+    
+    <nev>Kemény Tamás</nev>
+        					
+    
+    <kor>24</kor>
+        					
+    
+    <profit>12300000</profit>
+        		
+  
+  </tulajdonos>
+    
+
+</adatbazis>
